@@ -1,4 +1,4 @@
- # Hi, my name is Esenia! 👋
+ # Hi, my name is Eseniya! 👋
 
 Student at IITMM, UNN | Mobile Development | Lab Assignments for University Program
 
