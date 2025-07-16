@@ -24,8 +24,8 @@ Student at IITMM, UNN | Mobile Development | Lab Assignments for University Prog
 
 ## My GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eseniya1134&show_icons=true&theme=radical)](https://github.com/Eseniya1134)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eseniya1134&layout=compact&theme=radical)](https://github.com/Eseniya1134)
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Eseniya1134&theme=github-compact)](https://github.com/Eseniya1134)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eseniya1134&layout=compact&theme=radical&random=1234567)](https://github.com/Eseniya1134)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Eseniya1134&theme=radical&area=true&height=300&bg_color=0D1117&color=FF79C6&line=BD93F9&point=FFFFFF&border=FFFFFF&border_radius=16)](https://github.com/Eseniya1134)
 
 <!--## 🔥 Мои последние проекты
 - [Лабораторная работа по Java](https://github.com/ваш_ник/название_репозитория) - Описание
