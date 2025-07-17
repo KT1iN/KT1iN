@@ -19,8 +19,6 @@ Currently learning mobile app development in Java. Sharing my university lab ass
 
 ## Github Statistic
 
-## Github Statistic
-
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=dark&background=061821&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2" width="50%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=ff66b2&title_color=e600e6&text_color=ffffff" width="47%" />
