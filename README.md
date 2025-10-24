@@ -35,7 +35,7 @@ Currently learning mobile app development in Java. Sharing my university lab ass
 </div>
 <br />
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&exclude_repo=Image-Processing-Labs" width="38%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&exclude_repo=Image-Processing-Labs,AT2025" width="38%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=github-compact&bg_color=061821&color=ff66b2&point=ff6ec7&line=e600e6&area=true&area_color=e600e6&hide_border=true&radius=16" width="59%" />
 </div>
 
