@@ -1,10 +1,13 @@
 <div align="center">
 
-## Hi there 👋, I'm Eseniya!
+<img src="./typing-profile.svg" />
+
+
+<!--## Hi there 👋, I'm Eseniya!
 
 ### Student at IITMM, UNN | Mobile Development | Lab Assignments
 
-Currently learning mobile app development in Java. Sharing my university lab assignments (C#, Java) and exploring backend technologies. Passionate about coding and modern tech solutions!
+Currently learning mobile app development in Java. Sharing my university lab assignments (C#, Java) and exploring backend technologies. Passionate about coding and modern tech solutions! -->
 
 ## Tech Stack
 
