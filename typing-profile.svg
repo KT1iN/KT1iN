@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1050" height="190" viewBox="0 0 1050 190">
+
   <style>
     .txt {
       font-family: "JetBrains Mono", monospace;
       font-size: 14px;
       fill: #6C8CFF;
-      white-space: pre;
     }
     .title {
       font-size: 13px;
@@ -17,74 +17,54 @@
   <text x="540" y="20" class="txt title">EN</text>
 
   <!-- RU -->
-  <text x="20" y="45" class="txt"><tspan id="ru1"/></text>
-  <text x="20" y="67" class="txt"><tspan id="ru2"/></text>
-  <text x="20" y="89" class="txt"><tspan id="ru3"/></text>
-  <text x="20" y="111" class="txt"><tspan id="ru4"/></text>
-  <text x="20" y="133" class="txt"><tspan id="ru5"/></text>
-  <text x="20" y="155" class="txt"><tspan id="ru6"/></text>
+  <defs>
+    <clipPath id="ru1"><rect x="20" y="32" width="0" height="20"/></clipPath>
+    <clipPath id="ru2"><rect x="20" y="54" width="0" height="20"/></clipPath>
+    <clipPath id="ru3"><rect x="20" y="76" width="0" height="20"/></clipPath>
+    <clipPath id="ru4"><rect x="20" y="98" width="0" height="20"/></clipPath>
+    <clipPath id="ru5"><rect x="20" y="120" width="0" height="20"/></clipPath>
+    <clipPath id="ru6"><rect x="20" y="142" width="0" height="20"/></clipPath>
 
-  <!-- EN -->
-  <text x="540" y="45" class="txt"><tspan id="en1"/></text>
-  <text x="540" y="67" class="txt"><tspan id="en2"/></text>
-  <text x="540" y="89" class="txt"><tspan id="en3"/></text>
-  <text x="540" y="111" class="txt"><tspan id="en4"/></text>
-  <text x="540" y="133" class="txt"><tspan id="en5"/></text>
-  <text x="540" y="155" class="txt"><tspan id="en6"/></text>
+    <clipPath id="en1"><rect x="540" y="32" width="0" height="20"/></clipPath>
+    <clipPath id="en2"><rect x="540" y="54" width="0" height="20"/></clipPath>
+    <clipPath id="en3"><rect x="540" y="76" width="0" height="20"/></clipPath>
+    <clipPath id="en4"><rect x="540" y="98" width="0" height="20"/></clipPath>
+    <clipPath id="en5"><rect x="540" y="120" width="0" height="20"/></clipPath>
+    <clipPath id="en6"><rect x="540" y="142" width="0" height="20"/></clipPath>
+  </defs>
 
-  <script type="application/ecmascript"><![CDATA[
-    const ruLines = [
-      "Привет, меня зовут Есения",
-      "Я студентка, начинающий разработчик",
-      "Учусь в ННГУ им. Лобачевского, ИТММ",
-      "Публикую лабораторные и учебные проекты",
-      "Практикую языки программирования и архитектуру",
-      "Занимаюсь мобильной разработкой и создаю приложения"
-    ];
+  <!-- RU Text -->
+  <text x="20" y="45" class="txt" clip-path="url(#ru1)">Привет, меня зовут Есения</text>
+  <text x="20" y="67" class="txt" clip-path="url(#ru2)">Я студентка, начинающий разработчик</text>
+  <text x="20" y="89" class="txt" clip-path="url(#ru3)">Учусь в ННГУ им. Лобачевского, ИТММ</text>
+  <text x="20" y="111" class="txt" clip-path="url(#ru4)">Публикую лабораторные и учебные проекты</text>
+  <text x="20" y="133" class="txt" clip-path="url(#ru5)">Практикую языки программирования и архитектуру</text>
+  <text x="20" y="155" class="txt" clip-path="url(#ru6)">Занимаюсь мобильной разработкой и создаю приложения</text>
 
-    const enLines = [
-      "Hi, my name is Esenia",
-      "I’m a student and aspiring software developer",
-      "I study at Lobachevsky University (ITMM)",
-      "I share lab works and academic projects",
-      "I practice programming languages and architectures",
-      "I focus on mobile development and build applications"
-    ];
+  <!-- EN Text -->
+  <text x="540" y="45" class="txt" clip-path="url(#en1)">Hi, my name is Esenia</text>
+  <text x="540" y="67" class="txt" clip-path="url(#en2)">I’m a student and aspiring software developer</text>
+  <text x="540" y="89" class="txt" clip-path="url(#en3)">I study at Lobachevsky University (ITMM)</text>
+  <text x="540" y="111" class="txt" clip-path="url(#en4)">I share lab works and academic projects</text>
+  <text x="540" y="133" class="txt" clip-path="url(#en5)">I practice programming languages and architectures</text>
+  <text x="540" y="155" class="txt" clip-path="url(#en6)">I focus on mobile development and build applications</text>
 
-    const ruSpans = ruLines.map((_, i) => document.getElementById("ru" + (i + 1)));
-    const enSpans = enLines.map((_, i) => document.getElementById("en" + (i + 1)));
+  <!-- Animations -->
+  <animate xlink:href="#ru1 rect" attributeName="width" from="0" to="470" begin="0s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#ru2 rect" attributeName="width" from="0" to="470" begin="2.4s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#ru3 rect" attributeName="width" from="0" to="470" begin="4.8s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#ru4 rect" attributeName="width" from="0" to="470" begin="7.2s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#ru5 rect" attributeName="width" from="0" to="470" begin="9.6s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#ru6 rect" attributeName="width" from="0" to="470" begin="12s" dur="2s" fill="freeze"/>
 
-    let line = 0;
-    let char = 0;
+  <animate xlink:href="#en1 rect" attributeName="width" from="0" to="470" begin="0s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#en2 rect" attributeName="width" from="0" to="470" begin="2.4s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#en3 rect" attributeName="width" from="0" to="470" begin="4.8s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#en4 rect" attributeName="width" from="0" to="470" begin="7.2s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#en5 rect" attributeName="width" from="0" to="470" begin="9.6s" dur="2s" fill="freeze"/>
+  <animate xlink:href="#en6 rect" attributeName="width" from="0" to="470" begin="12s" dur="2s" fill="freeze"/>
 
-    function type() {
-      if (line >= ruLines.length) {
-        setTimeout(reset, 2200);
-        return;
-      }
+  <!-- Reset -->
+  <animate attributeName="opacity" from="1" to="0" begin="16s" dur="0.2s" repeatCount="indefinite"/>
 
-      ruSpans[line].textContent += ruLines[line][char];
-      enSpans[line].textContent += enLines[line][char];
-
-      char++;
-
-      if (char === ruLines[line].length) {
-        line++;
-        char = 0;
-        setTimeout(type, 450);
-      } else {
-        setTimeout(type, 32);
-      }
-    }
-
-    function reset() {
-      ruSpans.forEach(s => s.textContent = "");
-      enSpans.forEach(s => s.textContent = "");
-      line = 0;
-      char = 0;
-      setTimeout(type, 600);
-    }
-
-    type();
-  ]]></script>
 </svg>
