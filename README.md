@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="./typing-profile.svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=0&color=6C8CFF&width=450&lines=Привет,+меня+зовут+Есения" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=0&color=6C8CFF&width=450&lines=Hi,+my+name+is+Esenia" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1800&color=6C8CFF&width=450&lines=Я+студентка,+начинающий+разработчик" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1800&color=6C8CFF&width=450&lines=I+am+a+student,+a+beginner+developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=3600&color=6C8CFF&width=450&lines=Учусь+в+ННГУ+им.+Лобачевского,+ИТММ" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=3600&color=6C8CFF&width=450&lines=Studying+at+NNGU+named+after+Lobachevsky,+ITMM" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=5400&color=6C8CFF&width=450&lines=Публикую+лабораторные+и+учебные+проекты" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=5400&color=6C8CFF&width=450&lines=I+publish+laboratory+and+study+projects" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=7200&color=6C8CFF&width=450&lines=Практикую+языки+программирования+и+архитектуру" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=7200&color=6C8CFF&width=450&lines=I+practice+programming+languages+and+architecture" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=9000&color=6C8CFF&width=450&lines=Занимаюсь+мобильной+разработкой+и+создаю+приложения" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=9000&color=6C8CFF&width=450&lines=I+work+on+mobile+development+and+create+apps" />
 
 
 <!--## Hi there 👋, I'm Eseniya!
