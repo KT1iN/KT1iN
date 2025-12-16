@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="190" viewBox="0 0 1050 190">
+  <style>
+    .txt {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 14px;
+      fill: #6C8CFF;
+      white-space: pre;
+    }
+    .title {
+      font-size: 13px;
+      fill: #9aa4ff;
+    }
+  </style>
+
+  <!-- Titles -->
+  <text x="20" y="20" class="txt title">RU</text>
+  <text x="540" y="20" class="txt title">EN</text>
+
+  <!-- RU -->
+  <text x="20" y="45" class="txt"><tspan id="ru1"/></text>
+  <text x="20" y="67" class="txt"><tspan id="ru2"/></text>
+  <text x="20" y="89" class="txt"><tspan id="ru3"/></text>
+  <text x="20" y="111" class="txt"><tspan id="ru4"/></text>
+  <text x="20" y="133" class="txt"><tspan id="ru5"/></text>
+  <text x="20" y="155" class="txt"><tspan id="ru6"/></text>
+
+  <!-- EN -->
+  <text x="540" y="45" class="txt"><tspan id="en1"/></text>
+  <text x="540" y="67" class="txt"><tspan id="en2"/></text>
+  <text x="540" y="89" class="txt"><tspan id="en3"/></text>
+  <text x="540" y="111" class="txt"><tspan id="en4"/></text>
+  <text x="540" y="133" class="txt"><tspan id="en5"/></text>
+  <text x="540" y="155" class="txt"><tspan id="en6"/></text>
+
+  <script type="application/ecmascript"><![CDATA[
+    const ruLines = [
+      "Привет, меня зовут Есения",
+      "Я студентка, начинающий разработчик",
+      "Учусь в ННГУ им. Лобачевского, ИТММ",
+      "Публикую лабораторные и учебные проекты",
+      "Практикую языки программирования и архитектуру",
+      "Занимаюсь мобильной разработкой и создаю приложения"
+    ];
+
+    const enLines = [
+      "Hi, my name is Esenia",
+      "I’m a student and aspiring software developer",
+      "I study at Lobachevsky University (ITMM)",
+      "I share lab works and academic projects",
+      "I practice programming languages and architectures",
+      "I focus on mobile development and build applications"
+    ];
+
+    const ruSpans = ruLines.map((_, i) => document.getElementById("ru" + (i + 1)));
+    const enSpans = enLines.map((_, i) => document.getElementById("en" + (i + 1)));
+
+    let line = 0;
+    let char = 0;
+
+    function type() {
+      if (line >= ruLines.length) {
+        setTimeout(reset, 2200);
+        return;
+      }
+
+      ruSpans[line].textContent += ruLines[line][char];
+      enSpans[line].textContent += enLines[line][char];
+
+      char++;
+
+      if (char === ruLines[line].length) {
+        line++;
+        char = 0;
+        setTimeout(type, 450);
+      } else {
+        setTimeout(type, 32);
+      }
+    }
+
+    function reset() {
+      ruSpans.forEach(s => s.textContent = "");
+      enSpans.forEach(s => s.textContent = "");
+      line = 0;
+      char = 0;
+      setTimeout(type, 600);
+    }
+
+    type();
+  ]]></script>
+</svg>
