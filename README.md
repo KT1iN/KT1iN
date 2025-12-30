@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # About Me
 <table>
@@ -49,7 +49,7 @@ _Actively developing skills in:_
 </table>
 
 ---
-<div align="center">
+
 
 ## Tech Stack
 
