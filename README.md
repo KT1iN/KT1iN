@@ -1,14 +1,13 @@
-<div align="center">
+
 
 # About Me
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=8&color=6C8CFF&width=900&lines=Привет,+меня+зовут+Есения👋" />
  </div>
-
+ 
 **Образование:**  
 _Студентка бакалавриата в **Нижегородском государственном университете им. Н.И. Лобачевского (ННГУ)**_
 
@@ -24,14 +23,12 @@ _Активно развиваюсь в:_
 - Backend разработке
 - Автоматизации тестирования
 - Проектировании архитектуры приложений
-
 </td>
-<td width="50%">
-
+<td width="50%" valign="top">
 <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=8&color=6C8CFF&width=900&lines=Hi,+my+name+is+Esenia👋" />
   </div>
-
+  
 **Education:**  
 _Bachelor's student at **Lobachevsky State University of Nizhny Novgorod (UNN)**_
 
@@ -47,13 +44,12 @@ _Actively developing skills in:_
 - Backend development
 - Test automation
 - Application architecture design
-
 </td>
 </tr>
 </table>
 
 ---
-
+<div align="center">
 
 ## Tech Stack
 
