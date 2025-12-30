@@ -1,17 +1,59 @@
 <div align="center">
 
-  <!-- Пара 1 -->
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=8&color=6C8CFF&width=900&lines=Привет,+меня+зовут+Есения👋;Hi,+my+name+is+Esenia👋" />
+# About Me
+
+<table>
+<tr>
+<td width="50%">
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=8&color=6C8CFF&width=900&lines=Привет,+меня+зовут+Есения👋" />
+ </div>
+
+**Образование:**  
+_Студентка бакалавриата в **Нижегородском государственном университете им. Н.И. Лобачевского (ННГУ)**_
+
+**О репозитории:**  
+_Здесь я делюсь своим путём в программировании:_
+- Лабораторные работы с университета
+- Учебные проекты и практические задания
+- Самостоятельные pet-проекты
+- Эксперименты с новыми технологиями
+
+_Активно развиваюсь в:_
+- Мобильной разработке
+- Backend разработке
+- Автоматизации тестирования
+- Проектировании архитектуры приложений
+
+</td>
+<td width="50%">
+
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=8&color=6C8CFF&width=900&lines=Hi,+my+name+is+Esenia👋" />
   </div>
 
+**Education:**  
+_Bachelor's student at **Lobachevsky State University of Nizhny Novgorod (UNN)**_
 
+**About this repository:**  
+_Here I share my programming journey:_
+- University lab assignments
+- Educational projects and practical tasks
+- Personal pet projects
+- Experiments with new technologies
 
-<!--## Hi there 👋, I'm Eseniya!
+_Actively developing skills in:_
+- Mobile development
+- Backend development
+- Test automation
+- Application architecture design
 
-### Student at IITMM, UNN | Mobile Development | Lab Assignments
+</td>
+</tr>
+</table>
 
-Currently learning mobile app development in Java. Sharing my university lab assignments (C#, Java) and exploring backend technologies. Passionate about coding and modern tech solutions! -->
+---
+
 
 ## Tech Stack
 
@@ -35,38 +77,33 @@ Currently learning mobile app development in Java. Sharing my university lab ass
 ![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-## Github Statistic
 
+## Github Statistic
 <div>
   <!-- Статистика с учетом ВСЕХ веток и приватных репозиториев -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true" width="47%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=dark&background=061821&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2&include_all_commits=true" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=141321&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true" width="47%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=dark&background=141321&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2&include_all_commits=true" width="50%" />
 </div>
 <br />
 <div>
   <!-- Языки программирования с учетом всех коммитов -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true&exclude_repo=Image-Processing-Labs,AT2025&langs_count=8" width="38%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true&exclude_repo=Image-Processing-Labs,AT2025&langs_count=8" width="38%" />
   <!-- Граф активности с учетом всех веток -->
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=github-compact&bg_color=061821&color=ff66b2&point=ff6ec7&line=e600e6&area=true&area_color=e600e6&hide_border=true&radius=16&include_all_commits=true" width="59%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=github-compact&bg_color=141321&color=ff66b2&point=ff6ec7&line=e600e6&area=true&area_color=e600e6&hide_border=true&radius=16&include_all_commits=true" width="59%" />
 </div>
-
-</div>
-
-<!-- Альтернативные виджеты (можно раскомментировать при необходимости) -->
-<!--
+<br />
 <div align="center">
-  <h3>📈 Расширенная статистика</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eseniya1134&theme=github_dark&include_all_commits=true" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eseniya1134&theme=github_dark&include_all_commits=true" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eseniya1134&theme=github_dark&include_all_commits=true" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eseniya1134&theme=radical&utcOffset=3" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eseniya1134&theme=radical" width="65%" />
 </div>
 
-<!-- ## 📬 Let's Connect!
-
+## Find Me
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=56241e&logo=gmail&logoColor=ff0000&label=)](mailto:shakirova.esya23@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-03153D?style=for-the-badge&logo=telegram&logoColor=07479A)](https://t.me/k0t1in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eseniya1134)
 
 </div>
-
+<!-- Языки программирования с учетом всех коммитов 
  ## My GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eseniya1134&show_icons=true&theme=radical)](https://github.com/Eseniya1134)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eseniya1134&layout=compact&theme=radical&random=1234567)](https://github.com/Eseniya1134)
@@ -75,11 +112,8 @@ Currently learning mobile app development in Java. Sharing my university lab ass
 ## 🔥 Мои последние проекты
 - [Лабораторная работа по Java](https://github.com/ваш_ник/название_репозитория) - Описание
 - [Проект на C#](https://github.com/ваш_ник/название_репозитория) - Описание
-- [Мобильное приложение](https://github.com/ваш_ник/название_репозитория) - Описание
+- [Мобильное приложение](https://github.com/ваш_ник/название_репозитория) - Описание -->  -->
 
-## 📫 Как со мной связаться
-- 💌 Email: ваш_email@example.com
-- 📱 Telegram: [@ваш_телеграм](https://t.me/ваш_телеграм)
-- 💼 LinkedIn: [Ваше имя](https://www.linkedin.com/in/ваш_профиль/)
+
 
 ⭐ Приветствуются предложения по сотрудничеству и совместным проектам!-->
