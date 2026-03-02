@@ -76,16 +76,13 @@ _Actively developing skills in:_
 
 ## Github Statistic
 <div>
-  <!-- Статистика с учетом ВСЕХ веток и приватных репозиториев -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=141321&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true" width="47%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=dark&background=141321&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2&include_all_commits=true" width="50%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=toonight&background=141321&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2" width="50%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=141321&icon_color=ff66b2&title_color=e600e6" width="47%" />
 </div>
 <br />
 <div>
-  <!-- Языки программирования с учетом всех коммитов -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&text_color=ffffff&include_all_commits=true&count_private=true&exclude_repo=Image-Processing-Labs,AT2025&langs_count=8" width="38%" />
-  <!-- Граф активности с учетом всех веток -->
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=github-compact&bg_color=141321&color=ff66b2&point=ff6ec7&line=e600e6&area=true&area_color=e600e6&hide_border=true&radius=16&include_all_commits=true" width="59%" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&exclude_repo=Image-Processing-Labs,AT2025" width="38%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&hide_border=true&radius=16&line=e600e6&point=ff6ec7&area_color=ff6ec7&color=ff66b2" width="59%" />
 </div>
 <br />
 <div align="center">
