@@ -76,37 +76,23 @@ _Actively developing skills in:_
 
 ## Github Statistic
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eseniya1134&theme=toonight&background=141321&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2" width="50%" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=eseniya1134&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=141321&icon_color=ff66b2&title_color=e600e6" width="47%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=KT1iN&theme=toonight&background=141321&border=0C1A25&stroke=ff66b2&fire=e600e6&ring=e600e6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff66b2&dates=ff6ec7&currStreakLabel=ff66b2" width="50%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=KT1iN&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=141321&icon_color=ff66b2&title_color=e600e6" width="47%" />
 </div>
 <br />
 <div>
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eseniya1134&layout=compact&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&exclude_repo=Image-Processing-Labs,AT2025" width="38%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eseniya1134&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&hide_border=true&radius=16&line=e600e6&point=ff6ec7&area_color=ff6ec7&color=ff66b2" width="59%" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KT1iN&layout=compact&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&exclude_repo=Image-Processing-Labs,AT2025" width="38%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KT1iN&theme=codeSTACKr&bg_color=141321&icon_color=ff66b2&title_color=e600e6&hide_border=true&radius=16&line=e600e6&point=ff6ec7&area_color=ff6ec7&color=ff66b2" width="59%" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eseniya1134&theme=radical&utcOffset=3" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eseniya1134&theme=radical" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KT1iN&theme=radical&utcOffset=3" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT1iN&theme=radical" width="65%" />
 </div>
 
 ## Find Me
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=56241e&logo=gmail&logoColor=ff0000&label=)](mailto:shakirova.esya23@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-03153D?style=for-the-badge&logo=telegram&logoColor=07479A)](https://t.me/k0t1in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eseniya1134)
+[![Telegram](https://img.shields.io/badge/Telegram-03153D?style=for-the-badge&logo=telegram&logoColor=07479A)](https://t.me/KT1iN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KT1iN)
 
 </div>
-<!-- Языки программирования с учетом всех коммитов 
- ## My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eseniya1134&show_icons=true&theme=radical)](https://github.com/Eseniya1134)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eseniya1134&layout=compact&theme=radical&random=1234567)](https://github.com/Eseniya1134)
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Eseniya1134&theme=radical&area=true&height=300&bg_color=0D1117&color=FF79C6&line=BD93F9&point=FFFFFF&border=FFFFFF&border_radius=16)](https://github.com/Eseniya1134)
-
-## 🔥 Мои последние проекты
-- [Лабораторная работа по Java](https://github.com/ваш_ник/название_репозитория) - Описание
-- [Проект на C#](https://github.com/ваш_ник/название_репозитория) - Описание
-- [Мобильное приложение](https://github.com/ваш_ник/название_репозитория) - Описание -->  -->
-
-
-
-⭐ Приветствуются предложения по сотрудничеству и совместным проектам!-->
